@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Konstanz Bakharev](https://up.htmlacademy.ru/javascript/18/user/197437).
-* Наставник: `Неизвестно`.
+* Наставник: [Саяжан Онласын](https://up.htmlacademy.ru/javascript/18/user/808151).
 
 ---
 
